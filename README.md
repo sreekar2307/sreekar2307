@@ -16,7 +16,7 @@ I graduated in Computer Science in 2020. I bring 5 years of professional experie
 ### 🔧 Technologies I Love Working With
 
 - **Languages**: Go, Java (a bit), Bash, Python, Ruby
-- **Tools**: Neovim, Git, Docker, Postgres, Redis, AWS
+- **Tools**: Neovim, Git, Docker, Postgres, Redis, AWS, DynamoDB, MongoDB
 - **Areas of Interest**: High-concurrency systems, Message Queues, Distributed Architecture
 
 ---
